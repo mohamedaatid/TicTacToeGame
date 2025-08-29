@@ -36,6 +36,7 @@ The game runs in the console and ends when either side wins or the board fills u
 
  GAME STARTS
 
+```bash
 |----|----|----|
 |    |    |    |
 |----|----|----|
@@ -43,10 +44,12 @@ The game runs in the console and ends when either side wins or the board fills u
 |----|----|----|
 |    |    |    |
 |----|----|----|
+```
 
 Enter row #(1-3): 1
 Enter column #(1-3): 1
 
+```bash
 |----|----|----|
 | X  |    |    |
 |----|----|----|
@@ -54,9 +57,11 @@ Enter column #(1-3): 1
 |----|----|----|
 |    |    |    |
 |----|----|----|
+```
 
 (Computer plays...)
-``
+
+```bash
 |----|----|----|
 | X  |    |    |
 |----|----|----|
@@ -64,6 +69,8 @@ Enter column #(1-3): 1
 |----|----|----|
 |    |    |    |
 |----|----|----|
+```
+
 ## Compilation & Execution
 
 ### Compile:
